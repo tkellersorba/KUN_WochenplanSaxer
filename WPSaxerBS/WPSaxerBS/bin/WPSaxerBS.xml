@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WPSaxerBS
+</name>
+</assembly>
+<members>
+<member name="T:WPSaxerBS.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:WPSaxerBS.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:WPSaxerBS.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="F:WPSaxerBS._Default._Button2">
+<summary>
+Button2-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:WPSaxerBS._Default._Label1">
+<summary>
+Label1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:WPSaxerBS._Default._Button1">
+<summary>
+Button1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:WPSaxerBS._Default._b_filter">
+<summary>
+b_filter-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:WPSaxerBS._Default._BootstrapGridView1">
+<summary>
+BootstrapGridView1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:WPSaxerBS._Default._SqlDataSource1">
+<summary>
+SqlDataSource1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:WPSaxerBS.SiteMaster._Content">
+<summary>
+Content-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld
+Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+</remarks>
+</member>
+</members>
+</doc>

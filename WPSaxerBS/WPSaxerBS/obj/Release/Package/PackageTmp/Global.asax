@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="WPSaxerBS.Global_asax" Language="VB" %>

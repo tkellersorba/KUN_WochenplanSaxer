@@ -1,0 +1,27 @@
+<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="WPSaxerBS.SiteMaster" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DevExpress ASP.NET project</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" /> 
+    <link href="~/Content/Site.css" rel="stylesheet" /> 
+
+    <script type="text/javascript" src="/Scripts/jquery-1.12.2.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.min.js"></script>
+</head>
+<body>
+    <form runat="server">
+        
+      
+
+            <div class="container">
+                <asp:ContentPlaceHolder ID="Content" runat="server">
+                </asp:ContentPlaceHolder>
+            
+            </div>
+    </form>
+</body>
+</html>
